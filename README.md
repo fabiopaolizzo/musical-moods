@@ -33,5 +33,18 @@ This project was designed to solve a core challenge in modern AI: training predi
 -   **Cross-Modal Data Fusion:** Fusing different data types into a single, coherent analytical framework to create a more accurate and holistic model.
 
 ---
+<table align="center">
+  <tr>
+    <td align="center">
+      <p><strong>UC Irvine, Motion Capture Studio</strong></p>
+      <td><img src="https://github.com/user-attachments/assets/ddf1f6b8-ae53-4111-a31f-6b70b56eb224" alt="UC Irvine, Motion Capture Studio" width="400">
+    </td>
+    <td align="center">
+      <p><strong>53-markers Vicon's FrontWaist set</strong></p>
+      <td><img src="https://github.com/user-attachments/assets/077509ab-d597-47a9-9951-290f165fbccc" alt="53-markers Vicon's FrontWaist set" width="400"></td>
+    </td>
+  </tr>
+</table>
 
+---
 *This research was supported by the EU's Horizon 2020 programme (MSCA-IF-GF, REA Grant Agreement No. 659434).*```
