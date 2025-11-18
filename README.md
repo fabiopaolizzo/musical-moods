@@ -2,7 +2,7 @@
 
 This repository is the central hub for the MUSICAL-MOODS dataset, a foundational resource for training and validating AI models on complex, subjective, and unstructured human data. This work is directly applicable to building the robust, scalable algorithms required for analyzing unstructured data.
 
-The dataset was engineered as the primary outcome of my Marie Skłodowska-Curie Global Fellowship at the University of California, Irvine, and the University of Rome Tor Vergata.
+The dataset was engineered as the primary outcome of my [Marie Skłodowska-Curie Global Fellowship](https://cordis.europa.eu/article/id/422678-a-mood-indexed-multimodal-database-is-changing-the-game-for-interactive-music-systems) at the University of California, Irvine, and the University of Rome Tor Vergata.
 
 ---
 
